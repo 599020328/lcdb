@@ -1,0 +1,1 @@
+/usr/bin/c++   -fno-exceptions -fno-rtti   CMakeFiles/table_test.dir/util/testutil.cc.o CMakeFiles/table_test.dir/table/table_test.cc.o  -o table_test  -Wl,-rpath,/usr/local/lib libleveldb.a lib/libgmock.a lib/libgtest.a third_party/benchmark/src/libbenchmark.a /usr/local/lib/libpmemobj.so -lpthread -pthread /usr/lib/x86_64-linux-gnu/librt.so 

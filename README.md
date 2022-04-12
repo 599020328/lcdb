@@ -48,4 +48,6 @@ There are some options for 'db_bench'.
 
 ## 4 Contributors
 - Zhenyu Ye([yezhenyu@hnu.edu.cn](mailto:yezhenyu@hnu.edu.cn))
+- Yp Hu([yphu@hnu.edu.cn])
+- Linjun Wu([wulinjun777@hnu.edu,cn])
 

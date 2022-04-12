@@ -1,0 +1,1 @@
+/usr/bin/c++   -fno-exceptions -fno-rtti   CMakeFiles/ycsbc.dir/util/histogram.cc.o CMakeFiles/ycsbc.dir/util/testutil.cc.o CMakeFiles/ycsbc.dir/benchmarks/ycsbc.cpp.o  -o ycsbc  -Wl,-rpath,/usr/local/lib libleveldb.a lib/libgmock.a lib/libgtest.a /usr/local/lib/libpmemobj.so -lpthread 
